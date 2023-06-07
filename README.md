@@ -6,7 +6,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/MAHADI-143/ENC_PY3.git
+git clone https://github.com/MrCrackr/MR.CRACKR
 
 cd MR_VIP
 
